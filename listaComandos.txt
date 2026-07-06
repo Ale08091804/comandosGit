@@ -1,1 +1,3 @@
 git clone: sirve para clonar repositorios
+
+git commit: sirve para guardar un punto de control de los cambios que has hecho en tu proyecto. Es como tomar una "foto" del estado actual de tus archivos para poder volver a ella más adelante si es necesario.
