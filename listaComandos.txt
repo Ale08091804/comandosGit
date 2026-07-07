@@ -1,3 +1,7 @@
 git clone: sirve para clonar repositorios
 
 git commit: sirve para guardar un punto de control de los cambios que has hecho en tu proyecto. Es como tomar una "foto" del estado actual de tus archivos para poder volver a ella más adelante si es necesario.
+
+git push: Envía los cambios guardados en el repositorio local al repositorio remoto, como GitHub.
+git status: Muestra el estado del repositorio, indicando qué archivos fueron modificados, agregados o están pendientes de guardar.
+git add: Agrega los archivos modificados al área de preparación para que puedan guardarse con un git commit.
